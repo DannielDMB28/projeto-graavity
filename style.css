@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kaushan+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
+
+
+
+ div {
+    text-align: center;
+ }
+
+ section {
+    font-family: "Montserrat", sans-serif;
+    margin-left: 32vw;
+ }
+
+ .text {
+      display: inline-block;
+   }
+
+ .img{
+    position: absolute;
+    display: inline-block;
+    top: 86%;
+   }
+ 
+ aside {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    position: relative; 
+   }
+ 
+   #img01 {
+      
+      margin: 0px;
+      height: 100%;
+      max-width: 100%;
+   }
+         
+
+   #img02 {
+      position: absolute;
+      top: 16%;
+      left: 38%;
+      display: block;
+      z-index: 1;
+      font-size: 20px;
+   }
+
+   
+     
+
+
+
+ 
+ 
+
